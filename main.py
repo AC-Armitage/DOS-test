@@ -1,8 +1,6 @@
 import requests
 import threading
 import time
-
-# Function to send POST request
 def send_post_request():
     url = 'http://192.168.234.39'
     while True:
